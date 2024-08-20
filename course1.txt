@@ -1,7 +1,6 @@
 print "hello"
 happy birthday 
 good day 
-bad words
 happy Diwali
 any thing else
 happy me and myself
